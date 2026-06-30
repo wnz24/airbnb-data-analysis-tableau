@@ -20,4 +20,4 @@ This project analyzes the Airbnb listings dataset (Kaggle / Inside Airbnb) to un
 - Tableau Public — dashboard design and interactivity
 
 ## 🔗 Live Dashboard
-[View on Tableau Public →]https://public.tableau.com/app/profile/wajeeha.noor/viz/AirBnb_17793475070970/Dashboard1
+[View on Tableau Public →](https://public.tableau.com/app/profile/wajeeha.noor/viz/AirBnb_17793475070970/Dashboard1)
